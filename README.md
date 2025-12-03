@@ -135,8 +135,6 @@ The Smart Home Simulator becomes an **AI-powered digital twin** that:
 
 This transforms the simulator from a visual tool into a **research platform for autonomous smart homes**.
 
----
-
 ## 🛠 Tech Stack
 - React + TypeScript  
 - react-konva / SVG  
@@ -206,15 +204,6 @@ A **.NET MAUI application** simulating underwater depth, pressure, colors, and d
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=LukaszProgramista&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=LukaszProgramista&theme=tokyonight"/>
-</p>
 
 ---
 
